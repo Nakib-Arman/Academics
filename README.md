@@ -11,9 +11,8 @@ A collection of my academic projects, organized by semester and course.
 ---
 
 ## 3-1
-
-### 📘 CSE218 — Artificial Intelligence  
-🔗 [View Repository](https://github.com/Nakib-Arman/CSE218---ArtificialIntelligence)
+ 
+🔗 [### 📘 CSE218 — Artificial Intelligence ](https://github.com/Nakib-Arman/CSE218---ArtificialIntelligence)
 
 ### 📗 CSE316 — Microcontroller & Microprocessor  
 🔗 [View Repository](https://github.com/Nakib-Arman/CSE316---VAR-System)
