@@ -6,11 +6,11 @@ A collection of my academic projects, organized by semester and course.
 
 ## 📑 Table of Contents
 
-- [3-1](#3-1)
+- [Level-3 Term-1](#3-1)
 
 ---
 
-## 3-1
+## Level-3 Term-1
  
 🔗 [CSE218 — Artificial Intelligence ](https://github.com/Nakib-Arman/CSE218---ArtificialIntelligence)
 
