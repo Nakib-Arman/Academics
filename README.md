@@ -12,7 +12,7 @@ A collection of my academic projects, organized by semester and course.
 
 ## Level-3 Term-1
  
-🔗 [CSE218 — Artificial Intelligence ](https://github.com/Nakib-Arman/CSE318---ArtificialIntelligence)
+🔗 [CSE318 — Artificial Intelligence ](https://github.com/Nakib-Arman/CSE318---ArtificialIntelligence)
 
 🔗 [CSE316 — Compiler ](https://github.com/Nakib-Arman/CSE310---Compiler)
 
